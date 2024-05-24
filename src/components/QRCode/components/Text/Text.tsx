@@ -14,7 +14,7 @@ const Text = (props: TextProps) => {
             color: 'hsl(218, 44%, 22%)',
             fontWeight: 'bold',
             textAlign: 'center',
-            marginTop: 4,
+            marginTop: 2,
         }}
     >
         {text}
